@@ -1,0 +1,188 @@
+
+td
+{
+	font-size:12px;
+	height: 10;
+}
+.link{
+     border:#8dcff3 1px solid;
+}
+.input_txt {
+	font-size: 12px;
+	line-height: 20px;
+	color: #000000;
+	text-decoration: none;
+	margin-top: 3px;
+}
+.
+img
+{
+	border:none;
+}
+
+a:link {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	font-size: 12px;
+	color: #3366FF;
+	text-decoration: none;
+}
+a:active {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	filter:
+	Dropshadow(offx=1,offy=0,color=#00a8eb)
+	Dropshadow(offx=0,offy=1,color=#00a8eb)
+    Dropshadow(offx=0,offy=-1,color=#00a8eb)
+    Dropshadow(offx=-1,offy=0,color=#00a8eb);
+}
+.Input
+{
+	border-top-width: 1px;
+	padding-right: 1px;
+	padding-left: 1px;
+	border-left-width: 1px;
+	font-size: 9pt;
+	border-left-color: #0568b2;
+	border-bottom-width: 1px;
+	border-bottom-color: #0568b2;
+	padding-bottom: 1px;
+	color: #000000;
+	border-top-color: #0568b2;
+	padding-top: 1px;
+	border-right-width: 1px;
+	border-right-color: #0568b2;
+	background-color: #ffffff;	
+	height: 16px;
+}
+A {
+	COLOR: #000000; 
+        TEXT-DECORATION: none;
+}
+A:hover {
+	COLOR: #D20000; 
+        TEXT-DECORATION: underline;
+}
+A.Top {
+	COLOR: #FF0000; 
+        TEXT-DECORATION: none;
+        font-size: 12px;
+}
+A.Top:hover {
+	COLOR: #990000; 
+        TEXT-DECORATION: underline;
+        font-size: 12px;
+}
+A.Nav {
+	COLOR: #FCE3AF; 
+        TEXT-DECORATION: none;
+        font-size: 12px;
+}
+A.Nav:hover {
+	COLOR: #ededed; 
+        TEXT-DECORATION: underline;
+        font-size: 12px;
+}
+A.NavT:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.NavT:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.NavT:active {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.NavT:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #ff0000; BORDER-BOTTOM: 1px dotted; FONT-FAMILY: "宋体"; POSITION: relative
+}
+UL.nl {
+        PADDING-RIGHT: 0px; LIST-STYLE: none none outside; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.font_Glow_nav_1 {
+	FONT-WEIGHT: bold; FILTER: Glow(Color=#0568b2, Strength=2, FONT-SIZE: 12pt;); COLOR: #ffffff
+}
+.TopName {
+	FILTER: dropshadow(color=#ffffff, offx=1, offy=1, positive=1); HEIGHT: 1px
+}
+.TopTab {
+	FILTER: Glow(Color=#9D080D, Strength=2);
+}
+.TopType {
+	border-bottom: 1px dashed #d1d1d1;
+}
+.prspan {
+ width: 65px;
+ height: 7px;
+ _height: 11px;
+ padding: 2px;
+ float: left;
+ background: url(/images/hitsbar.gif) no-repeat left;
+}
+.tableBorder1 {
+	BORDER-RIGHT: #ffffff 1px solid;
+	BORDER-TOP: #ffffff 1px solid;
+	FONT-WEIGHT: normal; FONT-SIZE: 12px;
+	BORDER-LEFT: #ffffff 1px solid;
+	LINE-HEIGHT: normal;
+	BORDER-BOTTOM: #ffffff 1px solid;
+	FONT-STYLE: normal;
+	BACKGROUND-COLOR: #FFCC33;
+	FONT-VARIANT: normal
+}
+tr.TableRow {
+	background: url(/images/dh_bg.jpg);
+	font-size: 12px;
+	font-weight:bold;
+	color:#ffffff;
+	height: 26;
+}
+td.TableRow {
+	background-color:#009100;
+}
+td.TableTitle1 { background-color: #335EA8; Color: #ffffff; }
+td.TableTitle2 { background-color: #E4E8EF; }
+td.TableBody1 { background-color: #ffffff; line-height: normal; }
+td.TableBody2 { background-color: #E4E8EF; line-height: normal; }
+.tableBorder3 { border: 1px #547FD1 solid; background-color: #D6E0EF; }
+.normalTextSmall { font-size : 11px; color : #FF0000; font-family: Verdana, Arial, Helvetica, sans-serif; }
+.PageInput { border: solid 1px #D6E0EF; BACKGROUND-COLOR: #FAFAFA; height : 18px; FONT-FAMILY: Arial; FONT-SIZE:11.5px; }
+.text_foot {
+	COLOR: #ffffff; LINE-HEIGHT: 16px; FONT-FAMILY: "宋体"
+}
+.xiamian {
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #FC8A18;
+}
+.STYLE3 {color: #FF0000}
+.STYLE4 {color: #0000FF}
+.STYLE6 {color: #009900}
+.STYLE8 {color: #6600FF}
+.STYLE9 {color: #FF9900}
+.STYLE10 {color: #FF0000}
+.STYLE11 {color: #ff00ff}
+.STYLE12 {color: #0000ff}
+.STYLE13 {color: #ff0000}
+.STYLE14 {color: #009933}
+}
+.foot{
+	height:18px;
+}
+.message{
+	overflow:hidden;border:1px solid #FF0000;width:700px;height:18px;
+}
+.message li{
+width:82px;height:16px;padding:2px 0 0 0;line-height:16px;color:#FF0000;float:left; text-align: center;
+}
+.message li.message_tit
+{background:#FF0000;color:#333;height:16px;line-height:16px;
+}
